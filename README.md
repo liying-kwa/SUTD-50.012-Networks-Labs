@@ -1,4 +1,4 @@
-# SUTD-50.012-Labs
+# SUTD 50.012 Networks: Labs
 Labs completed for the ISTD Course 50.012 Networks.
 
 ## Lab 1: A Simple Web Proxy Server
